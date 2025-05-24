@@ -1,0 +1,6 @@
+person
+boat
+camera
+hand bag
+slipper
+tie

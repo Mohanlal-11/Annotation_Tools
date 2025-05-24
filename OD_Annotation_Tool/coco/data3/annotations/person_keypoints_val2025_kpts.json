@@ -1,0 +1,165 @@
+{
+  "info": {
+    "year": "2025",
+    "version": 1.0,
+    "description": "COCO-like dataset created at Nepal",
+    "author": "Mohan Lal Shrestha",
+    "date_created": "2025-05-13_11:26:36"
+  },
+  "images": [
+    {
+      "id": 0,
+      "file_name": "pedestrain1.jpg",
+      "width": 612,
+      "height": 408,
+      "date_captured": "2025-05-13_11:25:08"
+    },
+    {
+      "id": 1,
+      "file_name": "pedestrian2.jpg",
+      "width": 612,
+      "height": 410,
+      "date_captured": "2025-05-13_11:25:08"
+    },
+    {
+      "id": 2,
+      "file_name": "mohan.jpeg",
+      "width": 1536,
+      "height": 2048,
+      "date_captured": "2025-05-13_11:25:08"
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "None",
+      "id": 0,
+      "name": "nothing"
+    },
+    {
+      "supercategory": "None",
+      "id": 1,
+      "name": "person"
+    },
+    {
+      "supercategory": "None",
+      "id": 2,
+      "name": "boat"
+    },
+    {
+      "supercategory": "None",
+      "id": 3,
+      "name": "camera"
+    },
+    {
+      "supercategory": "None",
+      "id": 4,
+      "name": "hand bag"
+    },
+    {
+      "supercategory": "None",
+      "id": 5,
+      "name": "slipper"
+    },
+    {
+      "supercategory": "None",
+      "id": 6,
+      "name": "tie"
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "bbox": [
+        [
+          226,
+          224,
+          19,
+          27
+        ],
+        [
+          227,
+          97,
+          99,
+          265
+        ]
+      ],
+      "category_id": [
+        3,
+        1
+      ],
+      "id": 339665
+    },
+    {
+      "image_id": 1,
+      "bbox": [
+        [
+          298,
+          275,
+          26,
+          33
+        ],
+        [
+          267,
+          225,
+          24,
+          18
+        ],
+        [
+          248,
+          173,
+          66,
+          184
+        ],
+        [
+          75,
+          209,
+          18,
+          37
+        ],
+        [
+          9,
+          198,
+          40,
+          15
+        ],
+        [
+          411,
+          192,
+          42,
+          18
+        ]
+      ],
+      "category_id": [
+        5,
+        4,
+        1,
+        1,
+        2,
+        2
+      ],
+      "id": 792960
+    },
+    {
+      "image_id": 2,
+      "bbox": [
+        [
+          744,
+          858,
+          77,
+          304
+        ],
+        [
+          494,
+          505,
+          604,
+          1532
+        ]
+      ],
+      "category_id": [
+        6,
+        1
+      ],
+      "id": 613280
+    }
+  ]
+}

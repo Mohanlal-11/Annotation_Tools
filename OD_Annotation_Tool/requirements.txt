@@ -1,0 +1,10 @@
+autoflake
+black
+datetime
+json
+numpy 
+opencv-python
+pre-commit
+PyDrive
+PyYAML
+tqdm
